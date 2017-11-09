@@ -1,4 +1,7 @@
 # CAF
+add_lunch_combo lineage_pme-userdebug
+add_lunch_combo pa_pme-userdebug
+add_lunch_combo aokp_pme-userdebug
 add_lunch_combo pa_bacon-userdebug
 add_lunch_combo pa_gemini-userdebug
 add_lunch_combo pa_oneplus2-userdebug
@@ -11,7 +14,6 @@ add_lunch_combo pa_titan-userdebug
 add_lunch_combo pa_zl1-userdebug
 
 # HTC added by myself
-add_lunch_combo pa_pme-userdebug
 
 # Samsung Exynos devices
 add_lunch_combo pa_gts210ltexx-userdebug
