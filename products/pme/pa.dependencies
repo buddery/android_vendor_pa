@@ -1,21 +1,21 @@
 
     {
-        "remote":       "muppets",
+        "remote":       "blobs",
         "repository":   "/android_device_htc_pme",
-        "target_path":  "device/oneplus/oneplus3",
-        "revision":     "nougat-mr2"
-    },
-    {
-        "remote":       "muppets",
-        "repository":   "AOSPA/android_kernel_pme_msm8996",
-        "target_path":  "kernel/oneplus/msm8996",
-        "revision":     "nougat-mr2"
+        "target_path":  "device/htc/pme",
+        "revision":     "n7x-caf"
     },
     {
         "remote":       "blobs",
-        "repository":   "proprietary_vendor_htc",
-        "target_path":  "vendor/pme",
-        "revision":     "nougat-mr2"
+        "repository":   "/android_kernel_pme_msm8996",
+        "target_path":  "kernel/htc/msm8996",
+        "revision":     "n7x-caf"
+    },
+    {
+        "remote":       "blobs",
+        "repository":   "android_vendor_htc",
+        "target_path":  "vendor/htc/pme",
+        "revision":     "n7x-caf"
     },
     {
         "remote":       "aospa",
